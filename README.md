@@ -1,3 +1,7 @@
+# Start-Angular (Mean stack project rather than just starter project)
+
+This starter project will help you in bulding applications faster without having to develop basic things like configuring authentication and managing tokens with backend support and database support along with frontend angular. The only thing is to start building components as per requirement and implementing the backend api's. The project already contains code for login and signup logic.
+
 # AppName
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
