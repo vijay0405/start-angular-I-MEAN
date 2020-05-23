@@ -12,6 +12,12 @@ This starter project will help you in bulding applications faster without having
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+# Managing database  
+  replace the (mongodb://localhost:27017/test) in the backend/app.js with your own
+
+# App Setup
+The angular router default route on login success points to the same login page so change to your home page accordingly.
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
